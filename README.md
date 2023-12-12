@@ -1,1 +1,1 @@
-(./assets/img/dibujo.jpeg)
+![design](./assets/img/dibujo.jpeg)
